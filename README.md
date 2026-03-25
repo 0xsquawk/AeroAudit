@@ -16,6 +16,8 @@ Many global flight databases are messier than they look. When I cross-referenced
 
 I call these **"Ghost Flights."**
 
+<img width="1850" height="1007" alt="powerbi_visual_snapshot" src="https://github.com/user-attachments/assets/6bf46194-6d14-4353-af38-0132f9138412" />
+
 ---
 
 ## 🔍 Key Findings
