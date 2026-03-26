@@ -109,14 +109,6 @@ IF(
 
 ---
 
-## 🗺️ Roadmap (v2.0)
-
-- [ ] **Auto-Fix** — Apply a custom patch table to automatically resolve all 14,513 ghost codes
-- [ ] **Fuel Analysis** — Estimate fuel savings attributable to misclassified efficient aircraft (e.g., 73H)
-- [ ] **Live Data** — Connect the dashboard to a real-time flight-tracking API
-
----
-
 ## 📜 License
 
 This project is open source. Feel free to fork, explore, and build on it.
